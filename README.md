@@ -1,7 +1,7 @@
 ![logo](R-C.jpg)
 ## 👋 Hi there
 
-[![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=aoxueos&show_icons=true&theme=onedark)](https://github.com/aoxueos)
+[![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=YumesomeZakura&show_icons=true&theme=onedark)](https://github.com/YumesomeZakura)
 
 * 一个苦逼的大学学生党，没事在Guyhub上同性交友
 
@@ -10,4 +10,4 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/jammy/)
 
 * 正在被贫穷限制想象
-* 感谢佐大和他的小伙伴们对我的帮助
+* 感谢小伙伴们对我的帮助
